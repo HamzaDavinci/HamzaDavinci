@@ -1,7 +1,11 @@
 
 # Hey there, I'm Hamza   ![cat vibing](https://cdn.discordapp.com/emojis/862034033034526720.webp?size=32&animated=true)
 
+---
+
 ##     ![enter image description here](https://cdn.discordapp.com/emojis/782495594014048266.webp?size=32)            Developer & Gamer
+
+---
 
 - 🎮 I love gaming and finding bugs in games  
 - 🛠️ I’ve built custom Minecraft projects and several Discord bots  
