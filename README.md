@@ -10,6 +10,8 @@
 - 👨‍💻 I enjoy coding and exploring how systems work  
 - 🚀 Currently working on my own stuff and learning more every day
 
+![Profile Views](https://komarev.com/ghpvc/?username=HamzaDavinci&label=Visitors&color=1125d9&style=flat)
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDavinci&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25" />
