@@ -42,7 +42,7 @@
 
 
 
-  🌍 <strong>Portfolio:</strong> <a href="https://google.com" target="_blank" rel="noopener noreferrer">Underconstruction</a>
+  🌍 <strong>Portfolio:</strong> <a href="https://hamzq.dev" target="_blank" rel="noopener noreferrer">Underconstruction</a>
 </p>
 
 ---
