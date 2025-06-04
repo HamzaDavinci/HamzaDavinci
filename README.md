@@ -27,7 +27,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,html,css,js,tailwind,nodejs,cs,dotnet,mysql,docker,npm,angular,github,git,vscode,visualstudio,eclipse,robloxstudio,unrealengine,discord,figma,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=php,python,html,css,js,tailwind,nodejs,cs,dotnet,mysql,docker,npm,angular,github,git,vscode,visualstudio,eclipse,linux,raspberrypi,robloxstudio,unrealengine,discord,bots,linkedin,figma,cloudflare,stackoverflow" />
 </p>
 
 
